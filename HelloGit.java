@@ -1,5 +1,5 @@
 /**
- * Author: Jeff Whitworth
+ * Author: Astrid Pascua
  * Program 0 - HelloGit
  * CSC230-02 Spring 2016
  */
